@@ -1,0 +1,4 @@
+nama:Ikhdan Maghfuron
+nim : 42421013
+hoby : ngoding
+alamat: kalisumur
